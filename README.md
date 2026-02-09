@@ -5,7 +5,7 @@ This project presents an **interactive Insurance Analytics Dashboard** developed
 The dashboard helps stakeholders monitor business performance, identify risk patterns, and make data-driven decisions efficiently.
 
 This project is part of my **Data Analyst portfolio** and demonstrates real-world analytical and visualization skills.
-
+ 
 ---
 
 ##  Project Objectives
